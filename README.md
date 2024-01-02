@@ -66,3 +66,4 @@ This project is licensed under the [MIT License](LICENSE.md) - see the file for 
 ```
 
 You can modify the project title, description, and other sections as needed to better fit your actual project. This `README.md` provides a basic template for users to install and run both the client and the server parts of your project. Remember to add actual license information in the "License" section if you wish to include it.
+Unfortunately, there is no styling added due to time shortage.
